@@ -4,9 +4,7 @@
 变量 dyjsbbf 多账号换行或@
 格式 sessionid#url#X-Gorgon#X-Khronos
 
-1.网盘 pan.oroe.cn 或 pan.oroe.top 其他应用分类里面下载『抖音极速修改版』，此版本可免Root直接抓包，不用整那么多乱七八糟的东西
-2.先进入抖音，再启动黄鸟，等出现api5或api3开头的包就去点下开宝箱，然后关闭抓包，搜索treasure_task，注意参数全部在这个接口里取，Cookie里有sessionid值，url里的链接只要treasure_task?后面的全部参数，X-Gorgon和X-Khronos在请求头里面
-3.主要收益来源就是开宝箱视频1200金币，开宝箱是每隔20分钟一次*/
+主要收益来源就是开宝箱视频1200金币，开宝箱是每隔20分钟一次*/
 
 
 const $ = new Env("抖音极速版");
